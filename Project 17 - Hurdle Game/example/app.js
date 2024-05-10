@@ -48,7 +48,7 @@ function updatePlayer() {
 }
 
 function createHurdle() {
-    hurdle = {
+    var hurdle = {
         xPosition: canvas.width,
         yPosition: canvas.height - hurdleSize
     };
