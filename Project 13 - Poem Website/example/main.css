@@ -1,18 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
 
 body {
-  background: rgba(100, 250, 200, 0.3);
+  background: rgba(250, 100, 202, 0.977);
   text-align: center;
 }
 
 h1 {
   font-size: 50px;
-  color: rgba(0, 200, 100, 1);
+  color: rgb(245, 197, 234);
 }
 
 p {
   font-size: 30px;
-  font-family: 'Indie Flower';
+  font-family: 'Sigmar One';
+  color: rgb(184, 28, 173, 0.673)
 }
 
 img {
