@@ -1,18 +1,18 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Cherry+Swash);
 
 body {
-  background: rgba(100, 250, 200, 0.3);
+  background: rgb(231, 178, 218);
   text-align: center;
 }
 
 h1 {
-  font-size: 50px;
-  color: rgba(0, 200, 100, 1);
+  font-size: 100px;
+  color: rgb(201, 0, 174);
 }
 
 p {
-  font-size: 30px;
-  font-family: 'Indie Flower';
+  font-size: 50px;
+  font-family: 'Cherry Swash';
 }
 
 img {
