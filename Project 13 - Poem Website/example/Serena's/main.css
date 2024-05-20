@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap);
+
+body {
+  background: rgba(255, 139, 131, 0.833);
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(255, 2, 2);
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Poetsen One';
+}
+
+img {
+  width: 20%;
+
+}
