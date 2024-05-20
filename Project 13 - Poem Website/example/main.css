@@ -1,20 +1,24 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 
 body {
-  background: rgba(100, 250, 200, 0.3);
+  font-family: 'Pacifico';
+  background: rgba(238, 29, 221, 0.3);
   text-align: center;
 }
 
 h1 {
+  font-family: 'Pacifico';
   font-size: 50px;
-  color: rgba(0, 200, 100, 1);
+  color: rgb(112, 150, 199);
 }
 
 p {
-  font-size: 30px;
+  color: rgb(66, 13, 164);
+  font-family: 'Pacifico';
+  font-size: 25px;
   font-family: 'Indie Flower';
 }
 
 img {
-  width: 30%;
+  width: 100%;
 }
