@@ -1,20 +1,20 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url('https://fonts.googleapis.com/css2?family=FAMILY_NAME:wght@WEIGHT_OR_RANGE&display=swap');
 
 body {
-  background: rgba(100, 250, 200, 0.3);
+  background: rgb(168, 6, 6);
   text-align: center;
 }
 
 h1 {
   font-size: 50px;
-  color: rgba(0, 200, 100, 1);
+  color: rgb(0, 0, 0);
 }
 
 p {
   font-size: 30px;
-  font-family: 'Indie Flower';
+  font-family: 'FAMILY_NAME';
 }
 
 img {
-  width: 30%;
+  width: 60%;
 }
