@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 body {
   background: rgba(100, 250, 200, 0.3);
   text-align: center;
@@ -7,12 +6,12 @@ body {
 
 h1 {
   font-size: 50px;
-  color: rgba(0, 200, 100, 1);
+  color: rgb(197, 178, 135);
 }
 
 p {
   font-size: 30px;
-  font-family: 'Indie Flower';
+  font-family: 'Lobster';
 }
 
 img {
