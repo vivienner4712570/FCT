@@ -3,13 +3,13 @@ body {
 }
 
 img {
-  width: 50%;
-  height: 50%;
+  width: 30%;
+  height: 30%;
   margin-top: 15px;
 }
 
 button {
-  background-color: rgb(146, 0, 204);
+  background-color: rgb(30, 109, 146);
   color: white;
   font-size: 20px;
   margin: 5px;
@@ -18,7 +18,7 @@ button {
 
 #redButton {
   background-color: white;
-  color: red;
+  color: rgb(107, 138, 35);
   font-size: 10px;
   margin: 5px;
 }
@@ -27,10 +27,14 @@ button {
   display: block;
 }
 
-#dogContent {
+#MCContent {
   display: none;
 }
 
-#catContent {
+#FNContent {
+  display: none;
+}
+
+#SUSContent {
   display: none;
 }
