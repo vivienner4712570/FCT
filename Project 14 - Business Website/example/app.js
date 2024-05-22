@@ -2,7 +2,7 @@
 'use strict';
 
 function secretMessage() {
-    alert("You have unlocked the secret message!")
+    alert("This is a professional website")
 }
 function displayDog() {
     document.getElementById("dogContent").style.display = "block";
@@ -15,6 +15,6 @@ function displayCat() {
     document.getElementById("defaultContent").style.display = "none";
 }
 function redBackground() {
-    document.body.style.backgroundColor = "red";
+    document.body.style.backgroundColor = "pink";
     console.log(document)
 }
